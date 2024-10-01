@@ -1,6 +1,6 @@
 # Hi there!! 👋
 
-I am Styveen Emiliano Rizo Hernandez , a **Full Stack PHP & Laravel Developer** 💻 | **Open Source Enthusiast** 🚀 | **Building scalable web solutions** 👨‍💻 | ❤️ Passionate about clean code, collaboration, and continuous learning. I love working with modern technologies and sharing knowledge with the community!
+I am Styveen Emiliano Rizo Hernandez, a Full Stack PHP & Laravel Developer 💻 | Open Source Enthusiast 🚀 | Building scalable web solutions 👨‍💻 | ❤️ Passionate about clean code, collaboration, and continuous learning. I am a passionate student in constant development, learning and implementing through multiple projects. I love working with modern technologies and sharing knowledge with the community!
 
 ---
 
