@@ -27,11 +27,12 @@ I am Styveen Emiliano Rizo Hernandez, a Full Stack PHP & Laravel Developer 💻 
 ![GitHub](https://skillicons.dev/icons?i=github)  
 ![Unity](https://skillicons.dev/icons?i=unity)  
 ![Arduino](https://skillicons.dev/icons?i=arduino)  
+
+---
 ![Bash](https://skillicons.dev/icons?i=bash)  
 ![Git](https://skillicons.dev/icons?i=git)  
 ![jQuery](https://skillicons.dev/icons?i=jquery)  
-![Go](https://skillicons.dev/icons?i=go)  
-![COBOL](https://skillicons.dev/icons?i=cobol)  
+![Go](https://skillicons.dev/icons?i=go)    
 ![Java](https://skillicons.dev/icons?i=java)  
 ![Kotlin](https://skillicons.dev/icons?i=kotlin)  
 
