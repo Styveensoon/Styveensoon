@@ -5,8 +5,9 @@ I am Styveen Emiliano Rizo Hernandez , a **Full Stack PHP & Laravel Developer** 
 ---
 
 ### 🔗 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil/) 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tu-perfil/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tu-perfil/) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tu-perfil/) 
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/tu-perfil)
 
 ---
 
