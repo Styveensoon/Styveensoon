@@ -12,42 +12,42 @@ I am [Tu Nombre], a **Full Stack PHP & Laravel Developer** 💻 | **Open Source 
 
 ### ✨ Languages and tools I work with:
 
-![PHP](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=php&logoColor=777BB4)
-![JavaScript](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Laravel](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![Docker](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Python](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6)
-![GitHub](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=github&logoColor=181717)
-![Unity](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000)
+![PHP](https://skillicons.dev/icons?i=php)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Unity](https://skillicons.dev/icons?i=unity)
 
 ---
 
 ### 🎨 Design:
-![Figma](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Adobe Photoshop](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF)
-![Adobe](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=adobe&logoColor=FF0000)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop)
+![Adobe](https://skillicons.dev/icons?i=adobe)
 
 ---
 
 ### 🗄️ Databases:
-![MySQL](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MariaDB](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=mariadb&logoColor=003545)
-![PostgreSQL](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=336791)
-![phpMyAdmin](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MariaDB](https://skillicons.dev/icons?i=mariadb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![phpMyAdmin](https://skillicons.dev/icons?i=mysql)
 
 ---
 
 ### 💻 Operating Systems:
-![Linux](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Windows](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=windows&logoColor=0078D6)
-![Raspberry Pi](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
-![Apple](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=apple&logoColor=999999)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Windows](https://skillicons.dev/icons?i=windows)
+![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
+![Apple](https://skillicons.dev/icons?i=apple)
 
 ---
 
 ### ☁️ Cloud Services:
-![AWS](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=amazonaws&logoColor=232F3E)
+![AWS](https://skillicons.dev/icons?i=aws)
