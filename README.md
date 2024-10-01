@@ -11,7 +11,7 @@ I am Styveen Emiliano Rizo Hernandez, a **Full Stack PHP & Laravel Developer** �
 
 ---
 
-### ✨ Languages and tools I work with:
+### ✨🎯 Languages and tools I work with:
 <p>
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
@@ -38,7 +38,7 @@ I am Styveen Emiliano Rizo Hernandez, a **Full Stack PHP & Laravel Developer** �
 
 ---
 
-### 🎨 Design:
+### 🎨 🌈Design:
 <p>
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   <img src="https://skillicons.dev/icons?i=photoshop" alt="Adobe Photoshop" />
@@ -46,7 +46,7 @@ I am Styveen Emiliano Rizo Hernandez, a **Full Stack PHP & Laravel Developer** �
 
 ---
 
-### 🗄️ Databases:
+### 🗄️🗂️ Databases:
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
@@ -55,7 +55,7 @@ I am Styveen Emiliano Rizo Hernandez, a **Full Stack PHP & Laravel Developer** �
 
 ---
 
-### 💻 Operating Systems:
+### 💻 🐧Operating Systems:
 <p>
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
@@ -65,7 +65,7 @@ I am Styveen Emiliano Rizo Hernandez, a **Full Stack PHP & Laravel Developer** �
 
 ---
 
-### ☁️ Cloud Services:
+### ☁️ ⛰️Cloud Services:
 <p>
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
 </p>
