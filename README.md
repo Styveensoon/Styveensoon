@@ -1,6 +1,6 @@
 # Hi there!! 👋
 
-I am Styveen Emiliano Rizo Hernandez, a Full Stack PHP & Laravel Developer 💻 | Open Source Enthusiast 🚀 | Building scalable web solutions 👨‍💻 | ❤️ Passionate about clean code, collaboration, and continuous learning. I am a passionate student in constant development, learning and implementing through multiple projects. I love working with modern technologies and sharing knowledge with the community!
+I am Styveen Emiliano Rizo Hernandez, a **Full Stack PHP & Laravel Developer** 💻 | **Open Source Enthusiast** 🚀 | **Building scalable web solutions** 👨‍💻 | ❤️ Passionate about clean code, collaboration, and continuous learning. I am a passionate student in constant development, learning and implementing through multiple projects. I love working with modern technologies and sharing knowledge with the community!
 
 ---
 
@@ -12,52 +12,60 @@ I am Styveen Emiliano Rizo Hernandez, a Full Stack PHP & Laravel Developer 💻 
 ---
 
 ### ✨ Languages and tools I work with:
-![PHP](https://skillicons.dev/icons?i=php)  
-![JavaScript](https://skillicons.dev/icons?i=js)  
-![Laravel](https://skillicons.dev/icons?i=laravel)  
-![Docker](https://skillicons.dev/icons?i=docker)  
-![Python](https://skillicons.dev/icons?i=python)  
-![C](https://skillicons.dev/icons?i=c)  
-![C++](https://skillicons.dev/icons?i=cpp)  
-![C#](https://skillicons.dev/icons?i=cs)  
-![MATLAB](https://skillicons.dev/icons?i=matlab)  
-![Flutter](https://skillicons.dev/icons?i=flutter)  
-![HTML5](https://skillicons.dev/icons?i=html)  
-![CSS3](https://skillicons.dev/icons?i=css)  
-![GitHub](https://skillicons.dev/icons?i=github)  
-![Unity](https://skillicons.dev/icons?i=unity)  
-![Arduino](https://skillicons.dev/icons?i=arduino)  
-
----
-![Bash](https://skillicons.dev/icons?i=bash)  
-![Git](https://skillicons.dev/icons?i=git)  
-![jQuery](https://skillicons.dev/icons?i=jquery)  
-![Go](https://skillicons.dev/icons?i=go)    
-![Java](https://skillicons.dev/icons?i=java)  
-![Kotlin](https://skillicons.dev/icons?i=kotlin)  
+<p>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+</p>
 
 ---
 
 ### 🎨 Design:
-![Figma](https://skillicons.dev/icons?i=figma)
-![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop)
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=photoshop" alt="Adobe Photoshop" />
+</p>
 
 ---
 
 ### 🗄️ Databases:
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![phpMyAdmin](https://skillicons.dev/icons?i=mysql)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="phpMyAdmin" />
+</p>
 
 ---
 
 ### 💻 Operating Systems:
-![Linux](https://skillicons.dev/icons?i=linux)
-![Windows](https://skillicons.dev/icons?i=windows)
-![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
-![Apple](https://skillicons.dev/icons?i=apple)
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" />
+  <img src="https://skillicons.dev/icons?i=apple" alt="Apple" />
+</p>
 
 ---
 
 ### ☁️ Cloud Services:
-![AWS](https://skillicons.dev/icons?i=aws)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+</p>
