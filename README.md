@@ -8,6 +8,7 @@ I am Styveen Emiliano Rizo Hernandez, a **Full Stack PHP & Laravel Developer** ð
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tu-perfil/) 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tu-perfil/) 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/tu-perfil)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:tu-correo@gmail.com)
 
 ---
 
@@ -34,6 +35,8 @@ I am Styveen Emiliano Rizo Hernandez, a **Full Stack PHP & Laravel Developer** ð
   <img src="https://skillicons.dev/icons?i=go" alt="Go" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
 </p>
 
 ---
