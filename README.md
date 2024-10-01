@@ -27,7 +27,7 @@ I am [Tu Nombre], a **Full Stack PHP & Laravel Developer** 💻 | **Open Source 
 |-----------------|
 | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 | ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
-| ![Pencil](https://img.shields.io/badge/Pencil-A9A9A9?style=for-the-badge&logo=pencil&logoColor=white) |
+| ![Pencil Project](https://img.shields.io/badge/Pencil%20Project-A9A9A9?style=for-the-badge&logo=pencil&logoColor=white) |
 
 ---
 
