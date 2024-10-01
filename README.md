@@ -31,9 +31,7 @@ I am Styveen Emiliano Rizo Hernandez, a Full Stack PHP & Laravel Developer 💻 
 ![Bash](https://skillicons.dev/icons?i=bash)  
 ![Git](https://skillicons.dev/icons?i=git)  
 ![jQuery](https://skillicons.dev/icons?i=jquery)  
-![Go](https://skillicons.dev/icons?i=go)   
-![Java](https://skillicons.dev/icons?i=java)  
-![Kotlin](https://skillicons.dev/icons?i=kotlin)  
+
 
 
 
