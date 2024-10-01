@@ -33,7 +33,6 @@ I am Styveen Emiliano Rizo Hernandez , a **Full Stack PHP & Laravel Developer** 
 ### 🎨 Design:
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop)
-![Adobe](https://skillicons.dev/icons?i=adobe)
 
 ---
 
