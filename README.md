@@ -77,4 +77,4 @@ I am Styveen Emiliano Rizo Hernandez, a **Full Stack PHP & Laravel Developer** �
 
 ### 📜 🎓 Certifications:
 AWS Educate Introduction to Cloud 101
-<p> <a href="https://www.credly.com/badges/3a3cc0e8-a636-498f-aabf-b80d74fdaf4d/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/6848d1ec-59aa-4ba1-b4c3-9961ee6a14c2/image.png" alt="AWS Certification" width="120"/> </a> </p>
+<p> <a href="https://www.credly.com/badges/3a3cc0e8-a636-498f-aabf-b80d74fdaf4d/public_url" target="_blank"> <img src="https://d1.awsstatic.com/training-and-certification/AWS-Certified-Cloud-Practitioner_badge.d6f6d13f6f17cf5b8b62b5c8a14dbd5503b254c4.png" alt="AWS Certification" width="120"/> </a> </p>
