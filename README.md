@@ -5,10 +5,10 @@ I am Styveen Emiliano Rizo Hernandez, a **Full Stack PHP & Laravel Developer** ð
 ---
 
 ### ðŸ”— How to reach me:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tu-perfil/) 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tu-perfil/) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/styveen-rizo/) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/styveen_rh/) 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/tu-perfil)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:tu-correo@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:styveen.emiliano@gmail.com)
 
 ---
 
