@@ -7,7 +7,7 @@ I am Styveen Emiliano Rizo Hernandez, a **Full Stack PHP & Laravel Developer** ð
 ### ðŸ”— How to reach me:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/styveen-rizo-a870a0333/) 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/styveen_rh/) 
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/tu-perfil)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/pinguinodelcomun)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:styveen.emiliano@gmail.com)
 
 ---
