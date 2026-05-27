@@ -22,14 +22,12 @@ I build things that actually work — from enterprise automation scripts at T-Sy
 |---|---|---|
 | **Su Agua** | ESP32 · Edge Impulse · React Native · Firebase | IoT + Edge AI domestic water management system. Two trained ML models, solenoid valve control, mobile app |
 | **Dime** | React Native · Claude API · Groq Whisper · ElevenLabs · Node.js | Emotional support chat app with voice input, AI responses, and cognitive speech analysis backend |
-| **Brújula** | Expo · TypeScript · Claude API | Mental health companion that runs PHQ-9, GAD-7 and AD8 clinical screenings with an AI chatbot — INAOE Hackathon |
 | **Sam** | Raspberry Pi 5 · Ollama · Phi3:mini · Vosk · Piper TTS | Autonomous robot with local LLMs, speech recognition, USB camera vision, OLED display and servo control |
-| **DOCTORVIC** | HTML · CSS · JS · localStorage | Product catalog web app with full CRUD admin panel and inventory management |
 | **HackQuest** | Python · Tkinter | Desktop app with multi-tab UI for gamified programming challenges |
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
@@ -42,6 +40,8 @@ I build things that actually work — from enterprise automation scripts at T-Sy
   <img src="https://skillicons.dev/icons?i=react" alt="React" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
@@ -53,32 +53,6 @@ I build things that actually work — from enterprise automation scripts at T-Sy
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
-  <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
-</p>
-
----
-
-### 🤖 IoT & Embedded Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" />
-</p>
-
-**Also working with:** ESP32 · Edge Impulse (Edge AI) · Ollama (local LLMs) · PAM8403 · SSD1306 OLED · Vosk STT · Piper TTS · Servo control · Relay & solenoid valve wiring · pH sensors · Multimeter diagnostics · Soldering
-
----
-
-### 🎨 Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=photoshop" alt="Adobe Photoshop" />
 </p>
 
 ---
@@ -89,9 +63,55 @@ I build things that actually work — from enterprise automation scripts at T-Sy
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
 </p>
 
-**Also:** SQL Server · Firebase (Firestore + Realtime DB) · ClickHouse · MongoDB basics · DAO pattern
+**Also:** SQL Server · ClickHouse · Firestore · Realtime DB · DAO pattern · Relational & non-relational DB admin
+
+---
+
+### 🤖 IoT, Embedded & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />
+</p>
+
+**Hardware:** ESP32 · Arduino UNO/MEGA · Raspberry Pi 5 8GB · PAM8403 amplifier · SSD1306 OLED · pH sensors (PH-4502C + E201C-BNC) · Relay modules · Solenoid valves · Servo motors · BJT transistor diagnosis · Capacitor/PCB repair · Soldering & multimeter  
+
+**AI/ML:** Edge Impulse (Edge AI, two trained models) · Ollama (Phi3:mini, llama3.2:3b) · Claude API · Groq Whisper STT · Vosk STT · Piper TTS · ElevenLabs TTS · spaCy · CLIP
+
+---
+
+### ⚙️ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
+  <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
+</p>
+
+**Automation:** Power Apps · Power Automate · RPA · REST APIs · Webhooks · Scrum / Agile · Project management with budgeting & scheduling
+
+---
+
+### 🎨 Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=photoshop" alt="Adobe Photoshop" />
+</p>
 
 ---
 
@@ -111,9 +131,8 @@ I build things that actually work — from enterprise automation scripts at T-Sy
 <p>
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" />
 </p>
-
-**Also:** Power Apps · Power Automate · RPA · REST APIs · Webhooks
 
 ---
 
