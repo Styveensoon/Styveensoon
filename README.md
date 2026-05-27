@@ -140,12 +140,12 @@ I build things that actually work — from enterprise automation scripts at T-Sy
 
 | Event | Organizer | Year |
 |---|---|---|
-| **Genius Arena Hackathon** — Talent Land México | Capital One · Talent Network | 2026 |
+| **Genius Arena Hackathon** — Talent Land México | Qualcomm · Talent Network | 2026 |
 | **Hackathón Por Amor a Puebla** | Secretaría de Ciencia e Innovación, Puebla | 2026 |
 | **Hackathon de Neurolingüística** | INAOE · Tonantzintla | 2025 |
-| **Hackathon** | Tecnológico de Monterrey | 2025 |
-| **ETH 5 de Mayo** | — | 2024 |
-| **Talent Land** — Track Qualcomm | Talent Network | 2024 |
+| **Hackathon MTY** | Tecnológico de Monterrey | 2025 |
+| **ETH 5 de Mayo** | ETH 5 de mayo | 2024 |
+| **Talent Land** — Track Qualcomm | Talent Network | 2026 |
 
 ---
 
