@@ -9,7 +9,7 @@ I build things that actually work — from enterprise automation scripts at T-Sy
 
 ### 🔗 Find me here
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/styveen-rizo-hernandez-a870a0333/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/styveen-rizo/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/styveen_rh/)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/pinguinodelcomun)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:styveen.emiliano@gmail.com)
