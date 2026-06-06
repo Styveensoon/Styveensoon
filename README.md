@@ -145,7 +145,7 @@ I build things that actually work — from enterprise automation scripts at T-Sy
 | **Hackathon de Neurolingüística** | INAOE · Tonantzintla | 2025 |
 | **Hackathon MTY** | Tecnológico de Monterrey | 2025 |
 | **ETH 5 de Mayo** | ETH 5 de mayo | 2024 |
-| **Talent Land** — Track Qualcomm | Talent Network | 2026 |
+
 
 ---
 
@@ -164,12 +164,20 @@ Invited as technical evaluator for the school's annual science fair
 
 ### 📜 Certifications
 
-- 🟦 **Introduction to AI** — Google / Coursera *(May 2026)*
-- 🟧 **Introduction to Data Science** — Oracle Academy *(Oct 2024)*
-- 🟧 **Python** — Oracle Academy *(Oct 2024)*
+#### 🤖 Artificial Intelligence & Data
+- 🟦 **Introduction to AI** — Coursera *(Jun 2026)*
+- 🟧 **Introduction to Data Science** — Santander Open Academy *(Oct 2024)*
+
+#### 💻 Software Engineering
+- 🟩 **Software Engineer Intern Certificate** — HackerRank *(May 2026)*
+- 🟩 **Problem Solving (Intermediate) Certificate** — HackerRank *(May 2026)*
+- 🟧 **Python** — Santander Open Academy *(Oct 2024)*
+
+#### 🗄️ Databases
+- 🟩 **SQL (Advanced) Certificate** — HackerRank *(May 2026)*
+
+#### ☁️ Cloud Computing
 - ☁️ **AWS Educate Introduction to Cloud 101** — Amazon Web Services
-- 🏅 **Hackathón Por Amor a Puebla 2026** — Gobierno del Estado de Puebla
-- 🏅 **Genius Arena Hackathon** — Talent Land México 2026 · Capital One
 
 ---
 
